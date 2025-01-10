@@ -11,3 +11,7 @@ langchain-openai
 langchain-groq
 langchain-text-splitters
 pypdf
+langchain-core
+langsmith
+opencv-python
+colorama

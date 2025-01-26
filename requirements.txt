@@ -16,3 +16,4 @@ langsmith
 opencv-python
 colorama
 tavily-python
+streamlit

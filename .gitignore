@@ -1,0 +1,11 @@
+# environment file that contains the API keys
+.env
+
+# environment
+genai_env
+
+.vs/
+
+.vscode/
+
+ref_materials/
